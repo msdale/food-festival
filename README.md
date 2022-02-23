@@ -1,2 +1,2 @@
 # food-festival
-A community celebration of Cuisinart
+A Community Celebration of Cuisinart
